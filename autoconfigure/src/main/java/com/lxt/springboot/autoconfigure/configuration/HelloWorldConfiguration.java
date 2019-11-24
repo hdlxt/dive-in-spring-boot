@@ -12,7 +12,6 @@ import org.springframework.context.annotation.Bean;
  */
 @Slf4j
 public class HelloWorldConfiguration {
-
     @Bean
     public HelloWorld hello(){
         log.info("Load HelloWorld");

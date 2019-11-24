@@ -11,8 +11,6 @@ import lombok.extern.slf4j.Slf4j;
  */
 @Slf4j
 public class HelloWorld {
-
-
     public void hello(){
         log.info("hello world 2019!");
     }
